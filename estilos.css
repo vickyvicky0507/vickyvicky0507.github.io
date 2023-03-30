@@ -1,0 +1,76 @@
+@font-face{
+    font-family: Caveat;
+    src: url(Caveat-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: rgb(244, 201, 201);  
+    font-family: Caveat;
+}
+
+.texto-centrado{
+     text-align:center;
+    background-color:rgb(193, 235, 243);
+    border-radius: 20px;
+}
+
+.subtexto{
+    text-align:center;
+    background-color: ghostwhite;
+    border-radius: 20px;
+}
+
+a{
+    width: 20%;
+}
+
+img{
+    width: 100%;
+}
+
+#imagen-boton{ 
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen2{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen3{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen4{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen5{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen6{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+
+#imagen7{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+
+#imagen8{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+.final{
+    text-align: center;
+    background-color: cornflowerblue;
+}
